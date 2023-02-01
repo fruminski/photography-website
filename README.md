@@ -1,7 +1,6 @@
 # Photography website
-Photography website 
 
--------->[Ewelina Ruminska Photography](https://ewelinaruminska.com/)
+[Ewelina Ruminska Photography](https://ewelinaruminska.com/)<---------
 
 This is my very first website that I created for my wife's photo business in early 2022.
 
