@@ -1,4 +1,4 @@
-# photography-website
+# Photography website
 Photography website 
 
 -------->[Ewelina Ruminska Photography](https://ewelinaruminska.com/)
